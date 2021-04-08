@@ -4,6 +4,11 @@ Build your own octocat.
 
 https://myoctocat.dev
 
+---
+
+
+![alt text](https://github.com/Ananya-0306/octocat/blob/main/images.jpg)
+
 # How it works
 
 This library is used within https://myoctocat.dev to make an octocat. It maintains a set of options and then renders an SVG with all of the pieces and then draws it to a canvas.
